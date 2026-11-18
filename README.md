@@ -9,8 +9,7 @@ This repository contains the full code, data, raw results and analysis behind th
 
 > **A Kaggle notebook explains the study for beginners:** [kaggle.com/asmaborghan](https://www.kaggle.com/asmaborghan)
 
-> **Interactive app:** explore the kernels, damage levels and results yourself: see [Interactive app](#interactive-app).
-
+> > **🚀 Live app:** play with the kernels, damage levels and results: **[quantum-kernels-corruption.streamlit.app](https://quantum-kernels-corruption.streamlit.app)**
 ![Pipeline](figures/pipeline.png)
 
 ---
