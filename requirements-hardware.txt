@@ -1,0 +1,4 @@
+# Only for 07_ibm_hardware.ipynb
+qiskit>=2.0
+qiskit-ibm-runtime>=0.40
+qiskit-aer>=0.17

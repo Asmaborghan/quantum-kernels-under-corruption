@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or results, please cite it as below."
+title: "Bandwidth-Tuned Quantum Kernels under Data Corruption: A Benchmarking Study on Eight Real-World Datasets"
+authors:
+  - family-names: Mohamed
+    given-names: Asma
+    affiliation: "University of Technology and Applied Sciences, Sohar"
+  - family-names: Aljabri
+    given-names: Rayyan
+    affiliation: "University of Technology and Applied Sciences, Sohar"
+  - family-names: Al-aisri
+    given-names: Thoria
+    affiliation: "University of Technology and Applied Sciences, Sohar"
+date-released: 2026-11-18
+license: MIT
+repository-code: "https://github.com/Asmaborghan/quantum-kernels-under-corruption"
+keywords:
+  - quantum machine learning
+  - quantum kernels
+  - exponential concentration
+  - bandwidth tuning
+  - data corruption
+  - benchmarking
