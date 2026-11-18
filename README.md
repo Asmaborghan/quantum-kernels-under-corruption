@@ -9,6 +9,8 @@ This repository contains the full code, data, raw results and analysis behind th
 
 > **A Kaggle notebook explains the study for beginners:** [kaggle.com/asmaborghan](https://www.kaggle.com/asmaborghan)
 
+> **Interactive app:** explore the kernels, damage levels and results yourself: see [Interactive app](#interactive-app).
+
 ![Pipeline](figures/pipeline.png)
 
 ---
@@ -86,6 +88,7 @@ Clean-data ROC-AUC (mean ± SD over 25 outer folds):
 ├── 05_shot_noise.ipynb       # finite-shot simulation → results/shots/
 ├── 06_final_test.ipynb       # one-time sealed test on the 70 held-out rows → results/final_test/
 ├── 07_ibm_hardware.ipynb     # IBM Quantum hardware check → results/ibm/
+├── app/                      # Streamlit interactive explorer (streamlit_app.py + requirements.txt)
 ├── data/
 │   ├── raw/                  # original downloads (never edited)
 │   └── processed/            # <dataset>_train_ready.csv / <dataset>_test_ready.csv (16 files)
@@ -129,6 +132,22 @@ Run the notebooks in order. All results are already included, so each notebook c
 Original run: Python 3.14.7, NumPy 2.5.2, scikit-learn 1.9.1 (recorded in every `*_config.json`). Randomness is fixed everywhere: CV seeds 0–4; damage seeds come from a CRC32 hash of (dataset, damage type, seed, fold). Damage levels are therefore nested.
 
 **IBM hardware:** save your own account once with `QiskitRuntimeService.save_account(...)` on your machine. **Never commit a token.** The notebook only calls `QiskitRuntimeService()`.
+
+---
+
+## Interactive app
+
+`app/streamlit_app.py` is a Streamlit explorer built on the same engines:
+
+- **Kernel lab:** pick a dataset, damage type, level and bandwidth c; see the clean and damaged 5–14-qubit kernel matrices, computed live, and their variance ratio.
+- **Bandwidth & concentration:** off-diagonal variance against c, plus the study's variance ratios under the strongest damage.
+- **Results explorer:** fold-level AUC against c and damage curves for all four models, per dataset or pooled.
+- **Shot noise & hardware:** Binomial shot estimates against exact similarities, plus the IBM `ibm_fez` summary.
+
+```bash
+pip install -r app/requirements.txt
+streamlit run app/streamlit_app.py
+```
 
 ---
 
