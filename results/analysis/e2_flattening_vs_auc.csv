@@ -1,0 +1,11 @@
+,Spearman rho,Spearman rho,reading,reading
+damage,missing,noise,missing,noise
+dataset,,,,
+German,-0.34,0.2,no clear link,no clear link
+Concrete,0.68,0.8,flattening goes with AUC loss,flattening goes with AUC loss
+Water,-0.46,0.28,opposite direction,no clear link
+Steel,0.15,0.38,no clear link,no clear link
+Phoneme,-0.66,0.24,opposite direction,no clear link
+MAGIC,-0.76,0.65,opposite direction,flattening goes with AUC loss
+Bank,-0.62,0.33,opposite direction,no clear link
+Electricity,-0.46,0.31,opposite direction,no clear link

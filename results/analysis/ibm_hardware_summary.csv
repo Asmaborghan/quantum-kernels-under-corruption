@@ -1,0 +1,7 @@
+,simulated IBM (FakeFez),real hardware
+"self-pairs, mean (exact = 1)",0.896,0.664
+"pairs, mean |error|",0.05388302510286046,0.19294552510286045
+pairs inside shot-noise band,0.07142857142857142,0.0
+correlation with exact,0.999073846394441,0.988577410516052
+fitted slope a,0.8825282175677972,0.6627127384143123
+fitted offset b,0.010741033075591948,-0.007395675051473439

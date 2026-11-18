@@ -1,0 +1,441 @@
+dataset,family,setting,diff,p,model,p_holm
+german_credit,1 · Quantum − RBF,clean,-0.012681655354449485,0.46313254420913186,,1.0
+german_credit,1 · Quantum − RBF,missing 10%,-0.0027579185520362026,0.8582570030098087,,1.0
+german_credit,2 · drop from clean,missing 10%,0.005547322775263961,0.804132275340529,Quantum,1.0
+german_credit,2 · drop from clean,missing 10%,-0.004376414027149322,0.7704750874155478,SVM-RBF,1.0
+german_credit,2 · drop from clean,missing 10%,-0.0004976432880844639,0.9683898889461411,RF,1.0
+german_credit,2 · drop from clean,missing 10%,-0.007741704374057292,0.7761675636306569,LR,1.0
+german_credit,3 · Quantum drop − RBF drop,missing 10%,0.009923736802413284,0.6266438221523003,,1.0
+german_credit,1 · Quantum − RBF,missing 20%,-0.01045729638009048,0.5556870251076557,,1.0
+german_credit,2 · drop from clean,missing 20%,-0.001899132730015065,0.948609792057467,Quantum,1.0
+german_credit,2 · drop from clean,missing 20%,-0.004123491704374071,0.834316416110726,SVM-RBF,1.0
+german_credit,2 · drop from clean,missing 20%,-0.003413084464555034,0.8045437761607074,RF,1.0
+german_credit,2 · drop from clean,missing 20%,-0.012050527903469064,0.6550581742592615,LR,1.0
+german_credit,3 · Quantum drop − RBF drop,missing 20%,0.0022243589743590063,0.9245005834113343,,1.0
+german_credit,1 · Quantum − RBF,missing 30%,-0.0019046003016591228,0.9235725571085347,,1.0
+german_credit,2 · drop from clean,missing 30%,-0.0005775829562594037,0.9873058911509556,Quantum,1.0
+german_credit,2 · drop from clean,missing 30%,-0.011354638009049766,0.6832956299076788,SVM-RBF,1.0
+german_credit,2 · drop from clean,missing 30%,-0.010448812217194554,0.6878997707453091,RF,1.0
+german_credit,2 · drop from clean,missing 30%,-0.007265837104072376,0.7098501946428376,LR,1.0
+german_credit,3 · Quantum drop − RBF drop,missing 30%,0.010777055052790363,0.6685042391777569,,1.0
+german_credit,1 · Quantum − RBF,noise 0.05,-0.010727564102564107,0.5476576693007399,,1.0
+german_credit,2 · drop from clean,noise 0.05,0.003473227752639518,0.6638005830331034,Quantum,1.0
+german_credit,2 · drop from clean,noise 0.05,0.001519136500754139,0.3460784211498032,SVM-RBF,1.0
+german_credit,2 · drop from clean,noise 0.05,-0.0011061934389140272,0.9034152977064619,RF,1.0
+german_credit,2 · drop from clean,noise 0.05,0.0025885180995474945,0.7874702884171932,LR,1.0
+german_credit,3 · Quantum drop − RBF drop,noise 0.05,0.001954091251885379,0.8054647762973036,,1.0
+german_credit,1 · Quantum − RBF,noise 0.15,-0.013409973604826559,0.41225589228445014,,1.0
+german_credit,2 · drop from clean,noise 0.15,-0.0008815045248868802,0.825976181194127,Quantum,1.0
+german_credit,2 · drop from clean,noise 0.15,-0.0001531862745098067,0.9641386314169673,SVM-RBF,1.0
+german_credit,2 · drop from clean,noise 0.15,0.002573152337858211,0.8420694508476367,RF,1.0
+german_credit,2 · drop from clean,noise 0.15,0.002465686274509795,0.7996137425457891,LR,1.0
+german_credit,3 · Quantum drop − RBF drop,noise 0.15,-0.0007283182503770735,0.8636991623979725,,1.0
+german_credit,1 · Quantum − RBF,noise 0.3,-0.0020794683257918532,0.8874723259334928,,1.0
+german_credit,2 · drop from clean,noise 0.3,0.005092100301659128,0.6869661596454186,Quantum,1.0
+german_credit,2 · drop from clean,noise 0.3,-0.005510086726998504,0.40972327748215065,SVM-RBF,1.0
+german_credit,2 · drop from clean,noise 0.3,-0.01378893288084465,0.27469743450646095,RF,1.0
+german_credit,2 · drop from clean,noise 0.3,0.0009443815987933712,0.9264335642746708,LR,1.0
+german_credit,3 · Quantum drop − RBF drop,noise 0.3,0.010602187028657633,0.40851469445687766,,1.0
+german_credit,1 · Quantum − RBF,labels 5%,-0.006359068627450996,0.7813965758847686,,1.0
+german_credit,2 · drop from clean,labels 5%,-0.006043269230769224,0.7808294814380384,Quantum,1.0
+german_credit,2 · drop from clean,labels 5%,-0.012365855957767713,0.7070582494686884,SVM-RBF,1.0
+german_credit,2 · drop from clean,labels 5%,-0.0048841911764705825,0.7665604940224195,RF,1.0
+german_credit,2 · drop from clean,labels 5%,-0.005895550527903466,0.7100045147983972,LR,1.0
+german_credit,3 · Quantum drop − RBF drop,labels 5%,0.006322586726998489,0.7327426791575242,,1.0
+german_credit,1 · Quantum − RBF,labels 10%,-0.036560708898944194,0.4870116164725767,,1.0
+german_credit,2 · drop from clean,labels 10%,-0.04858229638009048,0.38410767143061425,Quantum,1.0
+german_credit,2 · drop from clean,labels 10%,-0.024703242835595773,0.3055682125658856,SVM-RBF,1.0
+german_credit,2 · drop from clean,labels 10%,-0.019083710407239794,0.36658103230765315,RF,1.0
+german_credit,2 · drop from clean,labels 10%,-0.01723840497737555,0.6338629808739711,LR,1.0
+german_credit,3 · Quantum drop − RBF drop,labels 10%,-0.023879053544494707,0.6581653431857697,,1.0
+german_credit,1 · Quantum − RBF,labels 15%,-0.040323717948717926,0.43863417236555424,,1.0
+german_credit,2 · drop from clean,labels 15%,-0.05075028280542984,0.40570046104567037,Quantum,1.0
+german_credit,2 · drop from clean,labels 15%,-0.02310822021116139,0.4646954386765824,SVM-RBF,1.0
+german_credit,2 · drop from clean,labels 15%,-0.03042067307692307,0.20945819061387166,RF,1.0
+german_credit,2 · drop from clean,labels 15%,-0.029513574660633465,0.47982830507690744,LR,1.0
+german_credit,3 · Quantum drop − RBF drop,labels 15%,-0.02764206259426845,0.6449024445201271,,1.0
+concrete,1 · Quantum − RBF,clean,-0.004948979591836738,0.5866798720471671,,1.0
+concrete,1 · Quantum − RBF,missing 10%,-0.00413265306122446,0.7874708555116454,,1.0
+concrete,2 · drop from clean,missing 10%,-0.00877551020408161,0.2534064246822722,Quantum,1.0
+concrete,2 · drop from clean,missing 10%,-0.009591836734693887,0.5019016916719841,SVM-RBF,1.0
+concrete,2 · drop from clean,missing 10%,-0.008903061224489837,0.35036710296222306,RF,1.0
+concrete,2 · drop from clean,missing 10%,-0.0015816326530612868,0.7799874118330714,LR,1.0
+concrete,3 · Quantum drop − RBF drop,missing 10%,0.0008163265306122769,0.9619152204310967,,1.0
+concrete,1 · Quantum − RBF,missing 20%,0.0006632653061224847,0.9584811316078036,,1.0
+concrete,2 · drop from clean,missing 20%,-0.004234693877550999,0.6419538983674641,Quantum,1.0
+concrete,2 · drop from clean,missing 20%,-0.009846938775510222,0.4028532084988523,SVM-RBF,1.0
+concrete,2 · drop from clean,missing 20%,-0.007423469387755106,0.5540332234150767,RF,1.0
+concrete,2 · drop from clean,missing 20%,-0.0013265306122449516,0.8377544219208594,LR,1.0
+concrete,3 · Quantum drop − RBF drop,missing 20%,0.005612244897959222,0.7113220593087,,1.0
+concrete,1 · Quantum − RBF,missing 30%,-0.009387755102040832,0.30750079929400986,,1.0
+concrete,2 · drop from clean,missing 30%,-0.017040816326530622,0.15564525354597994,Quantum,1.0
+concrete,2 · drop from clean,missing 30%,-0.012602040816326529,0.24130528792254557,SVM-RBF,1.0
+concrete,2 · drop from clean,missing 30%,-0.020688775510204097,0.09110836687083279,RF,1.0
+concrete,2 · drop from clean,missing 30%,-0.0031632653061224756,0.6053241269935914,LR,1.0
+concrete,3 · Quantum drop − RBF drop,missing 30%,-0.004438775510204094,0.6683766230349871,,1.0
+concrete,1 · Quantum − RBF,noise 0.05,-0.007857142857142847,0.4048354244783998,,1.0
+concrete,2 · drop from clean,noise 0.05,-0.0023979591836734747,0.4948131525190054,Quantum,1.0
+concrete,2 · drop from clean,noise 0.05,0.0005102040816326348,0.8364408516591498,SVM-RBF,1.0
+concrete,2 · drop from clean,noise 0.05,-0.0006377551020408489,0.9157221823101208,RF,1.0
+concrete,2 · drop from clean,noise 0.05,0.000765306122448961,0.6338570116262986,LR,1.0
+concrete,3 · Quantum drop − RBF drop,noise 0.05,-0.0029081632653061096,0.4473974765659372,,1.0
+concrete,1 · Quantum − RBF,noise 0.15,-0.004438775510204076,0.714353558793104,,1.0
+concrete,2 · drop from clean,noise 0.15,-0.004591836734693868,0.6095909154013703,Quantum,1.0
+concrete,2 · drop from clean,noise 0.15,-0.005102040816326529,0.5147284502623192,SVM-RBF,1.0
+concrete,2 · drop from clean,noise 0.15,-0.0006887755102041027,0.9028842370540646,RF,1.0
+concrete,2 · drop from clean,noise 0.15,0.0006122448979591555,0.7805694387085995,LR,1.0
+concrete,3 · Quantum drop − RBF drop,noise 0.15,0.0005102040816326613,0.9608431806384561,,1.0
+concrete,1 · Quantum − RBF,noise 0.3,-0.010765306122448965,0.4182036121841604,,1.0
+concrete,2 · drop from clean,noise 0.3,-0.011020408163265282,0.367331525496454,Quantum,1.0
+concrete,2 · drop from clean,noise 0.3,-0.005204081632653055,0.5587383838740123,SVM-RBF,1.0
+concrete,2 · drop from clean,noise 0.3,-0.0036989795918367374,0.6852852760798087,RF,1.0
+concrete,2 · drop from clean,noise 0.3,5.102040816325371e-05,0.9893871916425359,LR,1.0
+concrete,3 · Quantum drop − RBF drop,noise 0.3,-0.005816326530612228,0.6008620435795613,,1.0
+concrete,1 · Quantum − RBF,labels 5%,-0.005204081632653055,0.7055126820967548,,1.0
+concrete,2 · drop from clean,labels 5%,-0.008163265306122422,0.4056046987624853,Quantum,1.0
+concrete,2 · drop from clean,labels 5%,-0.007908163265306105,0.4709942948064647,SVM-RBF,1.0
+concrete,2 · drop from clean,labels 5%,-0.020025510204081644,0.09416711304787073,RF,1.0
+concrete,2 · drop from clean,labels 5%,-0.0047959183673469494,0.4753267681046364,LR,1.0
+concrete,3 · Quantum drop − RBF drop,labels 5%,-0.0002551020408163174,0.9815981323032422,,1.0
+concrete,1 · Quantum − RBF,labels 10%,-0.018979591836734717,0.11655677266066396,,1.0
+concrete,2 · drop from clean,labels 10%,-0.021071428571428585,0.10112576056415096,Quantum,1.0
+concrete,2 · drop from clean,labels 10%,-0.007040816326530606,0.5297489076943135,SVM-RBF,1.0
+concrete,2 · drop from clean,labels 10%,-0.030510204081632644,0.017536630641677417,RF,0.6313187031003871
+concrete,2 · drop from clean,labels 10%,-0.01096938775510206,0.3548322365650593,LR,1.0
+concrete,3 · Quantum drop − RBF drop,labels 10%,-0.01403061224489798,0.28247450142324393,,1.0
+concrete,1 · Quantum − RBF,labels 15%,-0.011632653061224492,0.49370025673050216,,1.0
+concrete,2 · drop from clean,labels 15%,-0.03499999999999999,0.08133048346874398,Quantum,1.0
+concrete,2 · drop from clean,labels 15%,-0.028316326530612237,0.1973686279412382,SVM-RBF,1.0
+concrete,2 · drop from clean,labels 15%,-0.051913265306122475,0.02167386112572843,RF,0.7585851394004951
+concrete,2 · drop from clean,labels 15%,-0.021173469387755137,0.09371129032280727,LR,1.0
+concrete,3 · Quantum drop − RBF drop,labels 15%,-0.006683673469387755,0.6756871221696178,,1.0
+water_potability,1 · Quantum − RBF,clean,-0.09219251336898399,0.04878950738052796,,0.3903160590442237
+water_potability,1 · Quantum − RBF,missing 10%,-0.10080213903743317,0.03447575775052915,,0.32110608698292237
+water_potability,2 · drop from clean,missing 10%,-0.021443850267379702,0.6529506179782278,Quantum,1.0
+water_potability,2 · drop from clean,missing 10%,-0.012834224598930516,0.7796439855451399,SVM-RBF,1.0
+water_potability,2 · drop from clean,missing 10%,-0.008716577540106952,0.7322752244191504,RF,1.0
+water_potability,2 · drop from clean,missing 10%,0.006363636363636372,0.7462134187339824,LR,1.0
+water_potability,3 · Quantum drop − RBF drop,missing 10%,-0.00860962566844918,0.8852631891698955,,1.0
+water_potability,1 · Quantum − RBF,missing 20%,-0.06770053475935829,0.24182947011769723,,0.6879281459406723
+water_potability,2 · drop from clean,missing 20%,-0.01737967914438502,0.7393211563024666,Quantum,1.0
+water_potability,2 · drop from clean,missing 20%,-0.041871657754010715,0.3911875276768646,SVM-RBF,1.0
+water_potability,2 · drop from clean,missing 20%,-0.029518716577540117,0.34388440848025753,RF,1.0
+water_potability,2 · drop from clean,missing 20%,0.005775401069518722,0.8448632539079665,LR,1.0
+water_potability,3 · Quantum drop − RBF drop,missing 20%,0.024491978609625695,0.7039694291131132,,1.0
+water_potability,1 · Quantum − RBF,missing 30%,-0.061069518716577544,0.2293093819802241,,0.6879281459406723
+water_potability,2 · drop from clean,missing 30%,-0.010534759358288747,0.8409358695711379,Quantum,1.0
+water_potability,2 · drop from clean,missing 30%,-0.041657754010695186,0.42620630075905147,SVM-RBF,1.0
+water_potability,2 · drop from clean,missing 30%,-0.05342245989304814,0.12006185207308799,RF,1.0
+water_potability,2 · drop from clean,missing 30%,0.0026203208556149927,0.9394166222872289,LR,1.0
+water_potability,3 · Quantum drop − RBF drop,missing 30%,0.031122994652406442,0.6303886577917447,,1.0
+water_potability,1 · Quantum − RBF,noise 0.05,-0.09705882352941175,0.032110608698292235,,0.32110608698292237
+water_potability,2 · drop from clean,noise 0.05,-0.011711229946524048,0.7183240126003535,Quantum,1.0
+water_potability,2 · drop from clean,noise 0.05,-0.0068449197860962815,0.749539962003713,SVM-RBF,1.0
+water_potability,2 · drop from clean,noise 0.05,0.005748663101604259,0.7310680453120204,RF,1.0
+water_potability,2 · drop from clean,noise 0.05,-0.0017647058823529417,0.8225032240296913,LR,1.0
+water_potability,3 · Quantum drop − RBF drop,noise 0.05,-0.004866310160427767,0.8935460138030388,,1.0
+water_potability,1 · Quantum − RBF,noise 0.15,-0.08224598930481287,0.0980434137154404,,0.5882604822926424
+water_potability,2 · drop from clean,noise 0.15,-0.009090909090909085,0.8184526698035085,Quantum,1.0
+water_potability,2 · drop from clean,noise 0.15,-0.01903743315508021,0.552436969719259,SVM-RBF,1.0
+water_potability,2 · drop from clean,noise 0.15,-0.013582887700534774,0.6511063375993497,RF,1.0
+water_potability,2 · drop from clean,noise 0.15,-0.00443850267379679,0.7422248209734154,LR,1.0
+water_potability,3 · Quantum drop − RBF drop,noise 0.15,0.009946524064171123,0.8445945816635437,,1.0
+water_potability,1 · Quantum − RBF,noise 0.3,-0.05016042780748665,0.25590098229983965,,0.6879281459406723
+water_potability,2 · drop from clean,noise 0.3,-0.0014438502673796805,0.9691802764834889,Quantum,1.0
+water_potability,2 · drop from clean,noise 0.3,-0.043475935828877016,0.3017876153226153,SVM-RBF,1.0
+water_potability,2 · drop from clean,noise 0.3,-0.015187165775401074,0.6650785538697873,RF,1.0
+water_potability,2 · drop from clean,noise 0.3,-5.347593582887944e-05,0.9977115732785545,LR,1.0
+water_potability,3 · Quantum drop − RBF drop,noise 0.3,0.042032085561497345,0.40951269793375733,,1.0
+water_potability,1 · Quantum − RBF,labels 5%,-0.05663101604278076,0.1274967031591612,,0.637483515795806
+water_potability,2 · drop from clean,labels 5%,0.008288770053475942,0.8726579258554377,Quantum,1.0
+water_potability,2 · drop from clean,labels 5%,-0.02727272727272729,0.48107760118517945,SVM-RBF,1.0
+water_potability,2 · drop from clean,labels 5%,-0.018636363636363635,0.430443678994259,RF,1.0
+water_potability,2 · drop from clean,labels 5%,0.0028342245989304727,0.9309471576285968,LR,1.0
+water_potability,3 · Quantum drop − RBF drop,labels 5%,0.03556149732620323,0.4738160353178701,,1.0
+water_potability,1 · Quantum − RBF,labels 10%,-0.09459893048128346,0.06462720842263486,,0.45239045895844404
+water_potability,2 · drop from clean,labels 10%,-0.021871657754010704,0.6331728983361413,Quantum,1.0
+water_potability,2 · drop from clean,labels 10%,-0.019465240641711238,0.6195281198816511,SVM-RBF,1.0
+water_potability,2 · drop from clean,labels 10%,-0.021363636363636394,0.4596393044739951,RF,1.0
+water_potability,2 · drop from clean,labels 10%,-0.0012834224598930533,0.9733093912998302,LR,1.0
+water_potability,3 · Quantum drop − RBF drop,labels 10%,-0.002406417112299468,0.9661648630007434,,1.0
+water_potability,1 · Quantum − RBF,labels 15%,-0.0802673796791444,0.15818585069891128,,0.637483515795806
+water_potability,2 · drop from clean,labels 15%,-0.0425668449197861,0.42122981523330083,Quantum,1.0
+water_potability,2 · drop from clean,labels 15%,-0.054491978609625694,0.333696600579503,SVM-RBF,1.0
+water_potability,2 · drop from clean,labels 15%,-0.0416577540106952,0.30006759257176907,RF,1.0
+water_potability,2 · drop from clean,labels 15%,0.010427807486631033,0.8115553583760379,LR,1.0
+water_potability,3 · Quantum drop − RBF drop,labels 15%,0.011925133689839601,0.8228652256626006,,1.0
+steel_faults,1 · Quantum − RBF,clean,-0.026786628733997175,0.3977421843562173,,1.0
+steel_faults,1 · Quantum − RBF,missing 10%,-0.019191085822664794,0.5399440189325314,,1.0
+steel_faults,2 · drop from clean,missing 10%,0.0012855223644697312,0.9740747933486045,Quantum,1.0
+steel_faults,2 · drop from clean,missing 10%,-0.006310020546862649,0.8250365041072287,SVM-RBF,1.0
+steel_faults,2 · drop from clean,missing 10%,-0.019835190453611505,0.25543057350341286,RF,1.0
+steel_faults,2 · drop from clean,missing 10%,-0.011169274537695601,0.5130128172220728,LR,1.0
+steel_faults,3 · Quantum drop − RBF drop,missing 10%,0.0075955429113323805,0.8741551030379066,,1.0
+steel_faults,1 · Quantum − RBF,missing 20%,-0.02908345187292555,0.34418999482778434,,1.0
+steel_faults,2 · drop from clean,missing 20%,-0.017522996680891394,0.6539674830899954,Quantum,1.0
+steel_faults,2 · drop from clean,missing 20%,-0.015226173541963019,0.6599082064408948,SVM-RBF,1.0
+steel_faults,2 · drop from clean,missing 20%,-0.02463288288288286,0.281955097656469,RF,1.0
+steel_faults,2 · drop from clean,missing 20%,-0.016584084084084093,0.4357762530272454,LR,1.0
+steel_faults,3 · Quantum drop − RBF drop,missing 20%,-0.0022968231389283744,0.9594934230620991,,1.0
+steel_faults,1 · Quantum − RBF,missing 30%,-0.029803461356092922,0.40147467281528054,,1.0
+steel_faults,2 · drop from clean,missing 30%,-0.03831586850007902,0.32029456142517404,Quantum,1.0
+steel_faults,2 · drop from clean,missing 30%,-0.035299035877983276,0.2859202420700323,SVM-RBF,1.0
+steel_faults,2 · drop from clean,missing 30%,-0.03711589220799746,0.130531431683418,RF,1.0
+steel_faults,2 · drop from clean,missing 30%,-0.033452663189505294,0.1640226723381123,LR,1.0
+steel_faults,3 · Quantum drop − RBF drop,missing 30%,-0.0030168326220957466,0.9394758490424235,,1.0
+steel_faults,1 · Quantum − RBF,noise 0.05,-0.026179943100995754,0.30967129586268477,,1.0
+steel_faults,2 · drop from clean,noise 0.05,0.0027705863758495397,0.5859016700208086,Quantum,1.0
+steel_faults,2 · drop from clean,noise 0.05,0.002163900742848117,0.9160597327209106,SVM-RBF,1.0
+steel_faults,2 · drop from clean,noise 0.05,0.0019782282282282404,0.8734087685696883,RF,1.0
+steel_faults,2 · drop from clean,noise 0.05,-0.0003373636794689494,0.9222651087166682,LR,1.0
+steel_faults,3 · Quantum drop − RBF drop,noise 0.05,0.0006066856330014226,0.9758784642380475,,1.0
+steel_faults,1 · Quantum − RBF,noise 0.15,-0.017696538643907047,0.4267345493155727,,1.0
+steel_faults,2 · drop from clean,noise 0.15,0.007745060850324039,0.7846746542484577,Quantum,1.0
+steel_faults,2 · drop from clean,noise 0.15,-0.0013450292397660891,0.9543333678558714,SVM-RBF,1.0
+steel_faults,2 · drop from clean,noise 0.15,-0.004762091038406826,0.7303114100798496,RF,1.0
+steel_faults,2 · drop from clean,noise 0.15,-0.006410779200252872,0.6377105167643585,LR,1.0
+steel_faults,3 · Quantum drop − RBF drop,noise 0.15,0.009090090090090128,0.7864436512252942,,1.0
+steel_faults,1 · Quantum − RBF,noise 0.3,-0.01845819503714241,0.4456530836205712,,1.0
+steel_faults,2 · drop from clean,noise 0.3,0.006732495653548299,0.7640149076296716,Quantum,1.0
+steel_faults,2 · drop from clean,noise 0.3,-0.0015959380433064664,0.959596778667726,SVM-RBF,1.0
+steel_faults,2 · drop from clean,noise 0.3,-0.018414335388019586,0.3073640120912926,RF,1.0
+steel_faults,2 · drop from clean,noise 0.3,-0.013129366208313566,0.5082569174724229,LR,1.0
+steel_faults,3 · Quantum drop − RBF drop,noise 0.3,0.008328433696854765,0.8210917358297232,,1.0
+steel_faults,1 · Quantum − RBF,labels 5%,-0.009311363995574529,0.7199447075585459,,1.0
+steel_faults,2 · drop from clean,labels 5%,0.0014457878931563339,0.9645802428780027,Quantum,1.0
+steel_faults,2 · drop from clean,labels 5%,-0.016029476845266313,0.52184890349228,SVM-RBF,1.0
+steel_faults,2 · drop from clean,labels 5%,-0.014170143828038549,0.3346962954540042,RF,1.0
+steel_faults,2 · drop from clean,labels 5%,-0.010155840050576886,0.6059926200563968,LR,1.0
+steel_faults,3 · Quantum drop − RBF drop,labels 5%,0.017475264738422647,0.6473056447708182,,1.0
+steel_faults,1 · Quantum − RBF,labels 10%,-0.014895527106053446,0.49123150821864026,,1.0
+steel_faults,2 · drop from clean,labels 10%,-0.014262841789157576,0.5372942644863642,Quantum,1.0
+steel_faults,2 · drop from clean,labels 10%,-0.026153943417101307,0.47779963029778577,SVM-RBF,1.0
+steel_faults,2 · drop from clean,labels 10%,-0.03689540856646118,0.14032665546167994,RF,1.0
+steel_faults,2 · drop from clean,labels 10%,-0.03367354196301565,0.2242022337180591,LR,1.0
+steel_faults,3 · Quantum drop − RBF drop,labels 10%,0.01189110162794373,0.7411411248994337,,1.0
+steel_faults,1 · Quantum − RBF,labels 15%,-0.02253706337916865,0.5770038195583325,,1.0
+steel_faults,2 · drop from clean,labels 15%,-0.04690911964596174,0.23884879880735718,Quantum,1.0
+steel_faults,2 · drop from clean,labels 15%,-0.051158685000790266,0.28579398682747054,SVM-RBF,1.0
+steel_faults,2 · drop from clean,labels 15%,-0.04916678520625888,0.10617754611225318,RF,1.0
+steel_faults,2 · drop from clean,labels 15%,-0.04748933143669984,0.2052252819164995,LR,1.0
+steel_faults,3 · Quantum drop − RBF drop,labels 15%,0.004249565354828526,0.9294544341694784,,1.0
+phoneme,1 · Quantum − RBF,clean,-0.029482560331825027,0.0665159482152986,,0.665159482152986
+phoneme,1 · Quantum − RBF,missing 10%,-0.017924773755656112,0.3067151767126,,1.0
+phoneme,2 · drop from clean,missing 10%,0.00011670437405729928,0.9934055089893004,Quantum,1.0
+phoneme,2 · drop from clean,missing 10%,-0.011441082202111614,0.5115855863415057,SVM-RBF,1.0
+phoneme,2 · drop from clean,missing 10%,-0.010786434766214183,0.2343325902785352,RF,1.0
+phoneme,2 · drop from clean,missing 10%,-0.001510840874811441,0.7282841713262348,LR,1.0
+phoneme,3 · Quantum drop − RBF drop,missing 10%,0.011557786576168913,0.6408169907529104,,1.0
+phoneme,1 · Quantum − RBF,missing 20%,-0.022725018853695343,0.10551643950908217,,0.9496479555817395
+phoneme,2 · drop from clean,missing 20%,-0.002626791101055832,0.8805600202937424,Quantum,1.0
+phoneme,2 · drop from clean,missing 20%,-0.009384332579185518,0.5763005538445702,SVM-RBF,1.0
+phoneme,2 · drop from clean,missing 20%,-0.011767816742081454,0.3073724565212849,RF,1.0
+phoneme,2 · drop from clean,missing 20%,-0.0010733408748114437,0.850461786847668,LR,1.0
+phoneme,3 · Quantum drop − RBF drop,missing 20%,0.006757541478129685,0.7582555530782439,,1.0
+phoneme,1 · Quantum − RBF,missing 30%,-0.011445041478129725,0.28539976276938445,,1.0
+phoneme,2 · drop from clean,missing 30%,-0.0037492458521870466,0.7912897246107511,Quantum,1.0
+phoneme,2 · drop from clean,missing 30%,-0.02178676470588235,0.22823713033493312,SVM-RBF,1.0
+phoneme,2 · drop from clean,missing 30%,-0.01675136689291098,0.25971369677984313,RF,1.0
+phoneme,2 · drop from clean,missing 30%,-0.002446172699849156,0.7278266809896611,LR,1.0
+phoneme,3 · Quantum drop − RBF drop,missing 30%,0.0180375188536953,0.3155848598221328,,1.0
+phoneme,1 · Quantum − RBF,noise 0.05,-0.03859021493212668,0.12132558288679848,,0.9706046630943879
+phoneme,2 · drop from clean,noise 0.05,-0.009388009049773754,0.6251847306167135,Quantum,1.0
+phoneme,2 · drop from clean,noise 0.05,-0.0002803544494721022,0.9674101500476363,SVM-RBF,1.0
+phoneme,2 · drop from clean,noise 0.05,-0.007179722850678752,0.3874351180243704,RF,1.0
+phoneme,2 · drop from clean,noise 0.05,-0.00012716817496228662,0.9232656480004958,LR,1.0
+phoneme,3 · Quantum drop − RBF drop,noise 0.05,-0.009107654600301652,0.6237897527758456,,1.0
+phoneme,1 · Quantum − RBF,noise 0.15,-0.027034973604826568,0.18041587654216734,,1.0
+phoneme,2 · drop from clean,noise 0.15,-0.007432786576168953,0.6115788253267755,Quantum,1.0
+phoneme,2 · drop from clean,noise 0.15,-0.009880373303167413,0.4511842695624338,SVM-RBF,1.0
+phoneme,2 · drop from clean,noise 0.15,-0.01483540723981902,0.21790889129805446,RF,1.0
+phoneme,2 · drop from clean,noise 0.15,-0.0007434954751131073,0.7152897230194122,LR,1.0
+phoneme,3 · Quantum drop − RBF drop,noise 0.15,0.002447586726998461,0.9028418349388531,,1.0
+phoneme,1 · Quantum − RBF,noise 0.3,-0.023252828054298638,0.14257490608634824,,0.9980243426044376
+phoneme,2 · drop from clean,noise 0.3,-0.008089932126696836,0.4816167900340001,Quantum,1.0
+phoneme,2 · drop from clean,noise 0.3,-0.014319664404223227,0.3336058694694199,SVM-RBF,1.0
+phoneme,2 · drop from clean,noise 0.3,-0.025477894042232253,0.04324682693586737,RF,1.0
+phoneme,2 · drop from clean,noise 0.3,-0.000338518099547489,0.9272110521123874,LR,1.0
+phoneme,3 · Quantum drop − RBF drop,noise 0.3,0.00622973227752639,0.744918599246128,,1.0
+phoneme,1 · Quantum − RBF,labels 5%,-0.02355703242835598,0.2502320922042961,,1.0
+phoneme,2 · drop from clean,labels 5%,-0.015233314479638015,0.3939265655030433,Quantum,1.0
+phoneme,2 · drop from clean,labels 5%,-0.02115884238310706,0.267750749010167,SVM-RBF,1.0
+phoneme,2 · drop from clean,labels 5%,-0.016860482654600276,0.09981759794142134,RF,1.0
+phoneme,2 · drop from clean,labels 5%,0.001116327300150841,0.8301324600731655,LR,1.0
+phoneme,3 · Quantum drop − RBF drop,labels 5%,0.005925527903469048,0.7953842505101135,,1.0
+phoneme,1 · Quantum − RBF,labels 10%,-0.021244532428355955,0.22829610400932518,,1.0
+phoneme,2 · drop from clean,labels 10%,-0.008581259426847655,0.6006885064764633,Quantum,1.0
+phoneme,2 · drop from clean,labels 10%,-0.016819287330316728,0.2930050959728095,SVM-RBF,1.0
+phoneme,2 · drop from clean,labels 10%,-0.02433102375565611,0.024904806995334688,RF,0.8965730518320487
+phoneme,2 · drop from clean,labels 10%,-0.0013255090497737453,0.8367919839053802,LR,1.0
+phoneme,3 · Quantum drop − RBF drop,labels 10%,0.008238027903469072,0.6699125709866753,,1.0
+phoneme,1 · Quantum − RBF,labels 15%,-0.008975395927601796,0.6679143682078903,,1.0
+phoneme,2 · drop from clean,labels 15%,-0.007611613876319759,0.7145433402998225,Quantum,1.0
+phoneme,2 · drop from clean,labels 15%,-0.02811877828054299,0.14399343304418272,SVM-RBF,1.0
+phoneme,2 · drop from clean,labels 15%,-0.03964889705882353,0.054553782050776364,RF,1.0
+phoneme,2 · drop from clean,labels 15%,0.0002756410256410513,0.9729397010518323,LR,1.0
+phoneme,3 · Quantum drop − RBF drop,labels 15%,0.02050716440422323,0.42857773695938356,,1.0
+magic_telescope,1 · Quantum − RBF,clean,-0.02876647700331909,0.10000556918275821,,0.8563928015140705
+magic_telescope,1 · Quantum − RBF,missing 10%,-0.02951461988304097,0.07079456342801949,,0.7079456342801949
+magic_telescope,2 · drop from clean,missing 10%,-0.004830172277540727,0.7681036938682398,Quantum,1.0
+magic_telescope,2 · drop from clean,missing 10%,-0.004082029397818849,0.8116310251966776,SVM-RBF,1.0
+magic_telescope,2 · drop from clean,missing 10%,-0.006290066382171653,0.5972693380569735,RF,1.0
+magic_telescope,2 · drop from clean,missing 10%,-0.0038010905642484882,0.6839008716982482,LR,1.0
+magic_telescope,3 · Quantum drop − RBF drop,missing 10%,-0.0007481428797218781,0.9671944683265268,,1.0
+magic_telescope,1 · Quantum − RBF,missing 20%,-0.026132448237711395,0.2095615326133201,,0.8563928015140705
+magic_telescope,2 · drop from clean,missing 20%,-0.014976134028765636,0.4214448701093018,Quantum,1.0
+magic_telescope,2 · drop from clean,missing 20%,-0.01761016279437333,0.3486667202247355,SVM-RBF,1.0
+magic_telescope,2 · drop from clean,missing 20%,-0.012243875454401754,0.38370330242932615,RF,1.0
+magic_telescope,2 · drop from clean,missing 20%,-0.004807807807807829,0.7354023345591252,LR,1.0
+magic_telescope,3 · Quantum drop − RBF drop,missing 20%,0.0026340287656076945,0.9141684500435462,,1.0
+magic_telescope,1 · Quantum − RBF,missing 30%,-0.02932242769084874,0.10177611696717219,,0.8563928015140705
+magic_telescope,2 · drop from clean,missing 30%,-0.01875754702070492,0.3598772367001957,Quantum,1.0
+magic_telescope,2 · drop from clean,missing 30%,-0.018201596333175273,0.4647880295892683,SVM-RBF,1.0
+magic_telescope,2 · drop from clean,missing 30%,-0.013471708550655919,0.39932628682597,RF,1.0
+magic_telescope,2 · drop from clean,missing 30%,-0.01357973763236922,0.3330305601404072,LR,1.0
+magic_telescope,3 · Quantum drop − RBF drop,missing 30%,-0.0005559506875296494,0.9776820877993142,,1.0
+magic_telescope,1 · Quantum − RBF,noise 0.05,-0.03269432590485221,0.09515475572378561,,0.8563928015140705
+magic_telescope,2 · drop from clean,noise 0.05,-0.0005201517306780623,0.9400499908329418,Quantum,1.0
+magic_telescope,2 · drop from clean,noise 0.05,0.0034076971708550596,0.7952047391284711,SVM-RBF,1.0
+magic_telescope,2 · drop from clean,noise 0.05,-0.0026850403034613633,0.7593042510382887,RF,1.0
+magic_telescope,2 · drop from clean,noise 0.05,-0.0009377272008851145,0.7310774758352251,LR,1.0
+magic_telescope,3 · Quantum drop − RBF drop,noise 0.05,-0.003927848901533122,0.7693639372736252,,1.0
+magic_telescope,1 · Quantum − RBF,noise 0.15,-0.02530227596017072,0.11932662132714247,,0.8563928015140705
+magic_telescope,2 · drop from clean,noise 0.15,-0.005915757863126317,0.6215883444039746,Quantum,1.0
+magic_telescope,2 · drop from clean,noise 0.15,-0.009379958906274686,0.5611874835087601,SVM-RBF,1.0
+magic_telescope,2 · drop from clean,noise 0.15,-0.013706258890469405,0.26777045312986725,RF,1.0
+magic_telescope,2 · drop from clean,noise 0.15,0.0002271218587007917,0.9787474258226375,LR,1.0
+magic_telescope,3 · Quantum drop − RBF drop,noise 0.15,0.0034642010431483695,0.8548004410662744,,1.0
+magic_telescope,1 · Quantum − RBF,noise 0.3,-0.01513252726410622,0.3169064666804303,,0.8563928015140705
+magic_telescope,2 · drop from clean,noise 0.3,-0.0084480006322112,0.6176913749813147,Quantum,1.0
+magic_telescope,2 · drop from clean,noise 0.3,-0.02208195037142407,0.24726225406902205,SVM-RBF,1.0
+magic_telescope,2 · drop from clean,noise 0.3,-0.026945708866761498,0.055795758555483965,RF,1.0
+magic_telescope,2 · drop from clean,noise 0.3,-0.003240161213845427,0.7596863216926893,LR,1.0
+magic_telescope,3 · Quantum drop − RBF drop,noise 0.3,0.01363394973921287,0.5350646340385335,,1.0
+magic_telescope,1 · Quantum − RBF,labels 5%,-0.03167006480164376,0.09802437094129905,,0.8563928015140705
+magic_telescope,2 · drop from clean,labels 5%,-0.014380749170222895,0.4083194747458063,Quantum,1.0
+magic_telescope,2 · drop from clean,labels 5%,-0.011477161371898225,0.5404508507352366,SVM-RBF,1.0
+magic_telescope,2 · drop from clean,labels 5%,-0.010465939623834339,0.40693421469888424,RF,1.0
+magic_telescope,2 · drop from clean,labels 5%,-0.007891101627943754,0.42830119697668734,LR,1.0
+magic_telescope,3 · Quantum drop − RBF drop,labels 5%,-0.0029035877983246694,0.8983523572047905,,1.0
+magic_telescope,1 · Quantum − RBF,labels 10%,-0.031870870870870836,0.1600019756894282,,0.8563928015140705
+magic_telescope,2 · drop from clean,labels 10%,-0.02337806227279913,0.3024931918141273,Quantum,1.0
+magic_telescope,2 · drop from clean,labels 10%,-0.02027366840524738,0.3483775905221806,SVM-RBF,1.0
+magic_telescope,2 · drop from clean,labels 10%,-0.021895961751224883,0.22342149239002235,RF,1.0
+magic_telescope,2 · drop from clean,labels 10%,-0.0029691006796270215,0.7976305803610879,LR,1.0
+magic_telescope,3 · Quantum drop − RBF drop,labels 10%,-0.003104393867551747,0.8849152077196535,,1.0
+magic_telescope,1 · Quantum − RBF,labels 15%,-0.03095677256203571,0.21337867096907565,,0.8563928015140705
+magic_telescope,2 · drop from clean,labels 15%,-0.039551762288604415,0.11472002236843012,Quantum,1.0
+magic_telescope,2 · drop from clean,labels 15%,-0.03736146672988779,0.20035208904747248,SVM-RBF,1.0
+magic_telescope,2 · drop from clean,labels 15%,-0.026105658289868817,0.1768186736842659,RF,1.0
+magic_telescope,2 · drop from clean,labels 15%,-0.008843211632685328,0.5873034824957559,LR,1.0
+magic_telescope,3 · Quantum drop − RBF drop,labels 15%,-0.0021902955587166195,0.9345694315470273,,1.0
+bank_marketing,1 · Quantum − RBF,clean,0.01758095238095239,0.7262313654486711,,1.0
+bank_marketing,1 · Quantum − RBF,missing 10%,0.056618853255587964,0.2546491704304919,,1.0
+bank_marketing,2 · drop from clean,missing 10%,0.0216645286686103,0.6395027218454058,Quantum,1.0
+bank_marketing,2 · drop from clean,missing 10%,-0.017373372206025275,0.7306577648860618,SVM-RBF,1.0
+bank_marketing,2 · drop from clean,missing 10%,-0.02298425655976675,0.23784720146735736,RF,1.0
+bank_marketing,2 · drop from clean,missing 10%,-0.0022977648202137948,0.9324645944388269,LR,1.0
+bank_marketing,3 · Quantum drop − RBF drop,missing 10%,0.03903790087463557,0.5444733839348965,,1.0
+bank_marketing,1 · Quantum − RBF,missing 20%,0.038785228377065134,0.4297416139699143,,1.0
+bank_marketing,2 · drop from clean,missing 20%,0.0025706511175899015,0.9681564139183177,Quantum,1.0
+bank_marketing,2 · drop from clean,missing 20%,-0.01863362487852284,0.6534558472019069,SVM-RBF,1.0
+bank_marketing,2 · drop from clean,missing 20%,-0.025441982507288605,0.35524122748969483,RF,1.0
+bank_marketing,2 · drop from clean,missing 20%,0.001134693877551025,0.9700633645507241,LR,1.0
+bank_marketing,3 · Quantum drop − RBF drop,missing 20%,0.021204275996112742,0.7607688209992863,,1.0
+bank_marketing,1 · Quantum − RBF,missing 30%,0.04445869776482025,0.4599888629619467,,1.0
+bank_marketing,2 · drop from clean,missing 30%,0.015451506316812452,0.7966931797356345,Quantum,1.0
+bank_marketing,2 · drop from clean,missing 30%,-0.0114262390670554,0.8336676302257335,SVM-RBF,1.0
+bank_marketing,2 · drop from clean,missing 30%,-0.02216656948493681,0.48105173483566177,RF,1.0
+bank_marketing,2 · drop from clean,missing 30%,-0.007760155490767744,0.8417946881130579,LR,1.0
+bank_marketing,3 · Quantum drop − RBF drop,missing 30%,0.026877745383867856,0.7566361556790043,,1.0
+bank_marketing,1 · Quantum − RBF,noise 0.05,0.020512342079689026,0.6844412200817488,,1.0
+bank_marketing,2 · drop from clean,noise 0.05,0.004764625850340138,0.8312115238993131,Quantum,1.0
+bank_marketing,2 · drop from clean,noise 0.05,0.0018332361516035034,0.7232877068522928,SVM-RBF,1.0
+bank_marketing,2 · drop from clean,noise 0.05,-0.003097764820213795,0.8860041551333264,RF,1.0
+bank_marketing,2 · drop from clean,noise 0.05,-0.0025333333333333297,0.7315144819299811,LR,1.0
+bank_marketing,3 · Quantum drop − RBF drop,noise 0.05,0.002931389698736635,0.8988455697602985,,1.0
+bank_marketing,1 · Quantum − RBF,noise 0.15,0.034377453838678344,0.49765695242358693,,1.0
+bank_marketing,2 · drop from clean,noise 0.15,0.0004303206997084508,0.988028068361548,Quantum,1.0
+bank_marketing,2 · drop from clean,noise 0.15,-0.0163661807580175,0.5177637756469938,SVM-RBF,1.0
+bank_marketing,2 · drop from clean,noise 0.15,0.0005016520894072007,0.9847518225047923,RF,1.0
+bank_marketing,2 · drop from clean,noise 0.15,0.0017830903790087428,0.647405050205378,LR,1.0
+bank_marketing,3 · Quantum drop − RBF drop,noise 0.15,0.016796501457725953,0.607996009032825,,1.0
+bank_marketing,1 · Quantum − RBF,noise 0.3,0.05093100097181733,0.4314660007904341,,1.0
+bank_marketing,2 · drop from clean,noise 0.3,0.015966958211856182,0.7506059338768599,Quantum,1.0
+bank_marketing,2 · drop from clean,noise 0.3,-0.017383090379008762,0.5208524788922037,SVM-RBF,1.0
+bank_marketing,2 · drop from clean,noise 0.3,0.00025053449951409676,0.9926060630354829,RF,1.0
+bank_marketing,2 · drop from clean,noise 0.3,-0.0005667638483965098,0.9519241376780241,LR,1.0
+bank_marketing,3 · Quantum drop − RBF drop,noise 0.3,0.03335004859086494,0.5822574865642993,,1.0
+bank_marketing,1 · Quantum − RBF,labels 5%,-0.018332361516034984,0.6958272197987857,,1.0
+bank_marketing,2 · drop from clean,labels 5%,-0.03896015549076774,0.4890256054894525,Quantum,1.0
+bank_marketing,2 · drop from clean,labels 5%,-0.0030468415937803693,0.9548595716367677,SVM-RBF,1.0
+bank_marketing,2 · drop from clean,labels 5%,-0.025306899902818262,0.5392743609065787,RF,1.0
+bank_marketing,2 · drop from clean,labels 5%,-0.02770689990281826,0.5540247915764456,LR,1.0
+bank_marketing,3 · Quantum drop − RBF drop,labels 5%,-0.035913313896987376,0.6298256037039723,,1.0
+bank_marketing,1 · Quantum − RBF,labels 10%,0.025729446064139974,0.6814315014983308,,1.0
+bank_marketing,2 · drop from clean,labels 10%,-0.03600388726919339,0.5745024038000531,Quantum,1.0
+bank_marketing,2 · drop from clean,labels 10%,-0.044152380952380964,0.4741112006448532,SVM-RBF,1.0
+bank_marketing,2 · drop from clean,labels 10%,-0.08290573372206024,0.09118953058937929,RF,1.0
+bank_marketing,2 · drop from clean,labels 10%,-0.043086103012633624,0.4485459326698794,LR,1.0
+bank_marketing,3 · Quantum drop − RBF drop,labels 10%,0.00814849368318758,0.9167239459423151,,1.0
+bank_marketing,1 · Quantum − RBF,labels 15%,0.037204275996112736,0.4307842894829436,,1.0
+bank_marketing,2 · drop from clean,labels 15%,-0.06216909620991254,0.2022146376348439,Quantum,1.0
+bank_marketing,2 · drop from clean,labels 15%,-0.08179241982507289,0.17456246740843132,SVM-RBF,1.0
+bank_marketing,2 · drop from clean,labels 15%,-0.14168921282798835,0.047729482215182424,RF,1.0
+bank_marketing,2 · drop from clean,labels 15%,-0.06266783284742469,0.30747641601809594,LR,1.0
+bank_marketing,3 · Quantum drop − RBF drop,labels 15%,0.019623323615160344,0.7600159427332343,,1.0
+electricity,1 · Quantum − RBF,clean,-0.020526185770750986,0.3233191612195316,,1.0
+electricity,1 · Quantum − RBF,missing 10%,-0.020949028326745722,0.35783094657280273,,1.0
+electricity,2 · drop from clean,missing 10%,-0.0007526350461133235,0.9662765718470294,Quantum,1.0
+electricity,2 · drop from clean,missing 10%,-0.0003297924901185878,0.9787772855312306,SVM-RBF,1.0
+electricity,2 · drop from clean,missing 10%,-0.00687819087615285,0.5835054222651136,RF,1.0
+electricity,2 · drop from clean,missing 10%,-0.001569293478260869,0.7822429768647859,LR,1.0
+electricity,3 · Quantum drop − RBF drop,missing 10%,-0.00042284255599473575,0.9832166129080769,,1.0
+electricity,1 · Quantum − RBF,missing 20%,-0.013313982213438736,0.5647096819965278,,1.0
+electricity,2 · drop from clean,missing 20%,-0.006210680171278007,0.7792433471670069,Quantum,1.0
+electricity,2 · drop from clean,missing 20%,-0.013422883728590258,0.5918145210946594,SVM-RBF,1.0
+electricity,2 · drop from clean,missing 20%,-0.015512598814229252,0.3150364172373241,RF,1.0
+electricity,2 · drop from clean,missing 20%,-0.005613059947299068,0.4772534572195133,LR,1.0
+electricity,3 · Quantum drop − RBF drop,missing 20%,0.007212203557312251,0.7378066969538887,,1.0
+electricity,1 · Quantum − RBF,missing 30%,-0.02744565217391305,0.12590117183771998,,1.0
+electricity,2 · drop from clean,missing 30%,-0.017272315546772082,0.45839106476345265,Quantum,1.0
+electricity,2 · drop from clean,missing 30%,-0.010352849143610019,0.6820003889829327,SVM-RBF,1.0
+electricity,2 · drop from clean,missing 30%,-0.014238101119894596,0.317760366433307,RF,1.0
+electricity,2 · drop from clean,missing 30%,-0.00717535408432147,0.5838079344938886,LR,1.0
+electricity,3 · Quantum drop − RBF drop,missing 30%,-0.0069194664031620645,0.6609780373281928,,1.0
+electricity,1 · Quantum − RBF,noise 0.05,-0.013887722332015837,0.4973681567879859,,1.0
+electricity,2 · drop from clean,noise 0.05,0.006474184782608678,0.5554622127610426,Quantum,1.0
+electricity,2 · drop from clean,noise 0.05,-0.00016427865612647085,0.9730228455086559,SVM-RBF,1.0
+electricity,2 · drop from clean,noise 0.05,-0.001320816864295118,0.8927377025518556,RF,1.0
+electricity,2 · drop from clean,noise 0.05,4.528985507246563e-05,0.9930229272216129,LR,1.0
+electricity,3 · Quantum drop − RBF drop,noise 0.05,0.00663846343873515,0.5754969704686009,,1.0
+electricity,1 · Quantum − RBF,noise 0.15,-0.010636940052700914,0.5527527404155381,,1.0
+electricity,2 · drop from clean,noise 0.15,0.0070880681818181746,0.6685121563495952,Quantum,1.0
+electricity,2 · drop from clean,noise 0.15,-0.002801177536231898,0.7620905119557504,SVM-RBF,1.0
+electricity,2 · drop from clean,noise 0.15,-0.005543787055335976,0.7330624192765804,RF,1.0
+electricity,2 · drop from clean,noise 0.15,-0.0020293972332016087,0.6855645913806729,LR,1.0
+electricity,3 · Quantum drop − RBF drop,noise 0.15,0.009889245718050072,0.5292549833685967,,1.0
+electricity,1 · Quantum − RBF,noise 0.3,-0.01039278656126481,0.3429613963098689,,1.0
+electricity,2 · drop from clean,noise 0.3,0.004559659090909087,0.7979206107412632,Quantum,1.0
+electricity,2 · drop from clean,noise 0.3,-0.005573740118577089,0.7277972896992407,SVM-RBF,1.0
+electricity,2 · drop from clean,noise 0.3,-0.01003149703557313,0.5158375097946049,RF,1.0
+electricity,2 · drop from clean,noise 0.3,-0.003576251646903832,0.5800310619719318,LR,1.0
+electricity,3 · Quantum drop − RBF drop,noise 0.3,0.010133399209486176,0.6283263115864554,,1.0
+electricity,1 · Quantum − RBF,labels 5%,-0.004510457839262156,0.7600098306890811,,1.0
+electricity,2 · drop from clean,labels 5%,0.015363554018445332,0.3927156109585601,Quantum,1.0
+electricity,2 · drop from clean,labels 5%,-0.0006521739130434989,0.9663546867827757,SVM-RBF,1.0
+electricity,2 · drop from clean,labels 5%,0.0006260293148880036,0.9530501965790594,RF,1.0
+electricity,2 · drop from clean,labels 5%,-0.003938364624505919,0.6606309771181609,LR,1.0
+electricity,3 · Quantum drop − RBF drop,labels 5%,0.01601572793148883,0.5328738867469587,,1.0
+electricity,1 · Quantum − RBF,labels 10%,-0.02186964756258235,0.45018465832851007,,1.0
+electricity,2 · drop from clean,labels 10%,-0.006637639986824784,0.8035008865824368,Quantum,1.0
+electricity,2 · drop from clean,labels 10%,-0.005294178194993417,0.8075464689128864,SVM-RBF,1.0
+electricity,2 · drop from clean,labels 10%,-0.009427083333333334,0.5771625688288753,RF,1.0
+electricity,2 · drop from clean,labels 10%,-0.008136528326745726,0.5388081686536325,LR,1.0
+electricity,3 · Quantum drop − RBF drop,labels 10%,-0.0013434617918313663,0.9648508050698198,,1.0
+electricity,1 · Quantum − RBF,labels 15%,-0.004273509552042163,0.8945214395359992,,1.0
+electricity,2 · drop from clean,labels 15%,-0.020193922924901197,0.6044650794175622,Quantum,1.0
+electricity,2 · drop from clean,labels 15%,-0.036446599143610016,0.20427393874605299,SVM-RBF,1.0
+electricity,2 · drop from clean,labels 15%,-0.0353611865942029,0.25800511270355564,RF,1.0
+electricity,2 · drop from clean,labels 15%,-0.017668190052700917,0.4027372471925037,LR,1.0
+electricity,3 · Quantum drop − RBF drop,labels 15%,0.016252676218708823,0.6564248599212135,,1.0
