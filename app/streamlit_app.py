@@ -134,8 +134,9 @@ with tab1:
     hist.add_histogram(x=off(K0), name="clean", opacity=0.6, nbinsx=50)
     if kind != "clean":
         hist.add_histogram(x=off(K1), name="damaged", opacity=0.6, nbinsx=50)
-    hist.update_layout(barmode="overlay", height=300, title="Off-diagonal similarities",
-                       xaxis_title="K(x, x′)", yaxis_title="pairs", margin=dict(t=40, b=10))
+        hist.update_layout(barmode="overlay", height=340, title="Off-diagonal similarities",
+                       yaxis_title="pairs", margin=dict(t=40, b=70))
+        hist.update_xaxes(title_text="similarity K(x, x′)", title_standoff=20)
     st.plotly_chart(hist, width="stretch", theme=None, key="chart2")
     st.caption("Rows are sorted by class (class 0 first), so a useful kernel shows two brighter blocks. "
                "Damage is applied with the project's own `corrupt_training`; noise only touches measured columns.")
